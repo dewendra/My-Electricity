@@ -25,6 +25,7 @@ public class MainActivity extends Activity implements OnItemSelectedListener {
 		//addAddressNameSpinner();
 		
 		System.out.println("Line added for test");
+		System.out.println("Line added for test");
 		
 	}
 
